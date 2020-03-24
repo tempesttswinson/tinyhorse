@@ -1,0 +1,46 @@
+li a{
+	text-decoration: none;
+	color: white;
+}
+li a:hover{
+	text-decoration-color: #e35443;
+	color: white;
+}
+
+.jumbotron{
+	height: 736px;
+	background-repeat: no-repeat;
+	background-image: url(https://tinyhorse.com/wp-content/uploads/2019/04/Value-Prop-Tiny-Horse-Services.jpg);
+	background-attachment: scroll;  
+	background-position: bottom center;
+	margin: 0px;
+	padding: 0px;
+}
+.container_jumbotron{
+	font-size: 40px; 
+	color: #f4eae9;
+}
+.accent-section{
+	height: 55px;
+	background-repeat: no-repeat; 
+	background-attachment: scroll; 
+	background-position: center center;
+	background-image: url(https://tinyhorse.com/wp-content/uploads/2019/04/Tiny-Horse-Agency-Gradient.jpg);
+	margin: 0px;
+	padding: 0px;
+}
+h6{
+	text-transform: uppercase;
+}
+.AGT{
+	background-image: url(https://tinyhorse.com/wp-content/uploads/2020/01/AGT-grad.jpg);
+	height: 565px;
+	color: #f4eae9;
+}
+.results{
+	background-color: #e35443;
+	color: #f4eae9;
+}
+.address, .cities, .copyright{
+	color: white;
+}
